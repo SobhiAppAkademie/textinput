@@ -74,7 +74,6 @@ class _StartScreenState extends State<StartScreen> {
                   // Passwort muss größer als 8 Zeichen sein
                   return "Bitte 8 Zeichen angeben";
                 }
-
                 // Alles ist in Ordnung, keine Probleme
                 return null;
               },
